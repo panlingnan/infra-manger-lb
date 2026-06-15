@@ -1,0 +1,18 @@
+classic-load-balance/providers.tf
+  h_8f8ed475454a1f 4-7
+classic-load-balance/variables.tf
+  h_8f8ed475454a1f 7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "8a9ed373942b59f9c8d64d969f7ea07df4b95acf",
+  "prompts": {},
+  "humans": {
+    "h_8f8ed475454a1f": {
+      "author": "panlingnan <panlingnan@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
