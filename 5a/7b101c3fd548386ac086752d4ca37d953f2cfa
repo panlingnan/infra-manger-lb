@@ -1,0 +1,965 @@
+classic-load-balance/modules/network/main.tf
+  s_5510c38959eb1c::t_a0cea15afd7712 1-83 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a2fec0ca5cd2bedabbb1a2d","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,83]}]}]}
+classic-load-balance/modules/storage/outputs.tf
+  s_5510c38959eb1c::t_a0cea15afd7712 1-19 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a2fec0ca5cd2bedabbb1a2d","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,19]}]}]}
+classic-load-balance/modules/database/variables.tf
+  s_5510c38959eb1c::t_a0cea15afd7712 1-74 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a2fec0ca5cd2bedabbb1a2d","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,74]}]}]}
+classic-load-balance/modules/storage/versions.tf
+  s_5510c38959eb1c::t_a0cea15afd7712 1-8 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a2fec0ca5cd2bedabbb1a2d","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,8]}]}]}
+classic-load-balance/modules/load_balancer/versions.tf
+  s_5510c38959eb1c::t_a0cea15afd7712 1-8 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a2fec0ca5cd2bedabbb1a2d","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,8]}]}]}
+classic-load-balance/README.md
+  s_5510c38959eb1c::t_a0cea15afd7712 1-364 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a2fec0ca5cd2bedabbb1a2d","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,364]}]}]}
+classic-load-balance/providers.tf
+  s_5510c38959eb1c::t_a0cea15afd7712 1-5 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a2fec0ca5cd2bedabbb1a2d","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,5]}]}]}
+classic-load-balance/modules/database/versions.tf
+  s_5510c38959eb1c::t_a0cea15afd7712 1-8 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a2fec0ca5cd2bedabbb1a2d","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,8]}]}]}
+classic-load-balance/terraform.tfvars
+  s_5510c38959eb1c::t_a0cea15afd7712 1-3,5-11,13-60 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a2fec0ca5cd2bedabbb1a2d","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,3]},{"Range":[5,11]},{"Range":[13,60]}]}]}
+  h_8f8ed475454a1f 4,12
+classic-load-balance/modules/compute/main.tf
+  s_5510c38959eb1c::t_a0cea15afd7712 1-92 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a2fec0ca5cd2bedabbb1a2d","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,92]}]}]}
+classic-load-balance/variables.tf
+  s_5510c38959eb1c::t_a0cea15afd7712 1-220 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a2fec0ca5cd2bedabbb1a2d","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,220]}]}]}
+classic-load-balance/modules/load_balancer/main.tf
+  s_5510c38959eb1c::t_a0cea15afd7712 1-138 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a2fec0ca5cd2bedabbb1a2d","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,138]}]}]}
+classic-load-balance/locals.tf
+  s_5510c38959eb1c::t_a0cea15afd7712 1-8 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a2fec0ca5cd2bedabbb1a2d","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,8]}]}]}
+classic-load-balance/modules/database/outputs.tf
+  s_5510c38959eb1c::t_a0cea15afd7712 1-19 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a2fec0ca5cd2bedabbb1a2d","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,19]}]}]}
+.gitignore
+  s_5510c38959eb1c::t_a0cea15afd7712 1-30 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a2fec0ca5cd2bedabbb1a2d","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,30]}]}]}
+classic-load-balance/modules/compute/versions.tf
+  s_5510c38959eb1c::t_a0cea15afd7712 1-8 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a2fec0ca5cd2bedabbb1a2d","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,8]}]}]}
+classic-load-balance/modules/network/variables.tf
+  s_5510c38959eb1c::t_a0cea15afd7712 1-43 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a2fec0ca5cd2bedabbb1a2d","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,43]}]}]}
+classic-load-balance/modules/storage/variables.tf
+  s_5510c38959eb1c::t_a0cea15afd7712 1-24 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a2fec0ca5cd2bedabbb1a2d","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,24]}]}]}
+classic-load-balance/outputs.tf
+  s_5510c38959eb1c::t_a0cea15afd7712 1-64 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a2fec0ca5cd2bedabbb1a2d","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,64]}]}]}
+classic-load-balance/main.tf
+  s_5510c38959eb1c::t_a0cea15afd7712 1-91 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a2fec0ca5cd2bedabbb1a2d","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,91]}]}]}
+classic-load-balance/modules/storage/main.tf
+  s_5510c38959eb1c::t_a0cea15afd7712 1-16 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a2fec0ca5cd2bedabbb1a2d","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,16]}]}]}
+classic-load-balance/modules/compute/outputs.tf
+  s_5510c38959eb1c::t_a0cea15afd7712 1-19 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a2fec0ca5cd2bedabbb1a2d","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,19]}]}]}
+classic-load-balance/modules/load_balancer/outputs.tf
+  s_5510c38959eb1c::t_a0cea15afd7712 1-29 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a2fec0ca5cd2bedabbb1a2d","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,29]}]}]}
+classic-load-balance/versions.tf
+  s_5510c38959eb1c::t_a0cea15afd7712 1-9 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a2fec0ca5cd2bedabbb1a2d","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,9]}]}]}
+classic-load-balance/modules/compute/variables.tf
+  s_5510c38959eb1c::t_a0cea15afd7712 1-74 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a2fec0ca5cd2bedabbb1a2d","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,74]}]}]}
+classic-load-balance/modules/load_balancer/variables.tf
+  s_5510c38959eb1c::t_a0cea15afd7712 1-84 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a2fec0ca5cd2bedabbb1a2d","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,84]}]}]}
+classic-load-balance/modules/network/outputs.tf
+  s_5510c38959eb1c::t_a0cea15afd7712 1-24 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a2fec0ca5cd2bedabbb1a2d","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,24]}]}]}
+classic-load-balance/modules/database/main.tf
+  s_5510c38959eb1c::t_a0cea15afd7712 1-73 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a2fec0ca5cd2bedabbb1a2d","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,73]}]}]}
+classic-load-balance/modules/network/versions.tf
+  s_5510c38959eb1c::t_a0cea15afd7712 1-8 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a2fec0ca5cd2bedabbb1a2d","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,8]}]}]}
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "5a7b101c3fd548386ac086752d4ca37d953f2cfa",
+  "prompts": {},
+  "humans": {
+    "h_8f8ed475454a1f": {
+      "author": "panlingnan <panlingnan@bytedance.com>"
+    }
+  },
+  "sessions": {
+    "s_5510c38959eb1c": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a1fcadf8e54f7cb088264bb",
+        "model": "openrouter-2o__max",
+        "display_model_name": "openrouter-2o"
+      },
+      "human_author": "panlingnan <panlingnan@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {
+    ".gitignore": [
+      {
+        "hash": "s_5510c38959eb1c::t_a0cea15afd7712",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              30
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a2fec0ca5cd2bedabbb1a2d",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  30
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "classic-load-balance/README.md": [
+      {
+        "hash": "s_5510c38959eb1c::t_a0cea15afd7712",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              364
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a2fec0ca5cd2bedabbb1a2d",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  364
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "classic-load-balance/locals.tf": [
+      {
+        "hash": "s_5510c38959eb1c::t_a0cea15afd7712",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              8
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a2fec0ca5cd2bedabbb1a2d",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  8
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "classic-load-balance/main.tf": [
+      {
+        "hash": "s_5510c38959eb1c::t_a0cea15afd7712",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              91
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a2fec0ca5cd2bedabbb1a2d",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  91
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "classic-load-balance/modules/compute/main.tf": [
+      {
+        "hash": "s_5510c38959eb1c::t_a0cea15afd7712",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              92
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a2fec0ca5cd2bedabbb1a2d",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  92
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "classic-load-balance/modules/compute/outputs.tf": [
+      {
+        "hash": "s_5510c38959eb1c::t_a0cea15afd7712",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              19
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a2fec0ca5cd2bedabbb1a2d",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  19
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "classic-load-balance/modules/compute/variables.tf": [
+      {
+        "hash": "s_5510c38959eb1c::t_a0cea15afd7712",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              74
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a2fec0ca5cd2bedabbb1a2d",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  74
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "classic-load-balance/modules/compute/versions.tf": [
+      {
+        "hash": "s_5510c38959eb1c::t_a0cea15afd7712",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              8
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a2fec0ca5cd2bedabbb1a2d",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  8
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "classic-load-balance/modules/database/main.tf": [
+      {
+        "hash": "s_5510c38959eb1c::t_a0cea15afd7712",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              73
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a2fec0ca5cd2bedabbb1a2d",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  73
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "classic-load-balance/modules/database/outputs.tf": [
+      {
+        "hash": "s_5510c38959eb1c::t_a0cea15afd7712",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              19
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a2fec0ca5cd2bedabbb1a2d",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  19
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "classic-load-balance/modules/database/variables.tf": [
+      {
+        "hash": "s_5510c38959eb1c::t_a0cea15afd7712",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              74
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a2fec0ca5cd2bedabbb1a2d",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  74
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "classic-load-balance/modules/database/versions.tf": [
+      {
+        "hash": "s_5510c38959eb1c::t_a0cea15afd7712",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              8
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a2fec0ca5cd2bedabbb1a2d",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  8
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "classic-load-balance/modules/load_balancer/main.tf": [
+      {
+        "hash": "s_5510c38959eb1c::t_a0cea15afd7712",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              138
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a2fec0ca5cd2bedabbb1a2d",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  138
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "classic-load-balance/modules/load_balancer/outputs.tf": [
+      {
+        "hash": "s_5510c38959eb1c::t_a0cea15afd7712",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              29
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a2fec0ca5cd2bedabbb1a2d",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  29
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "classic-load-balance/modules/load_balancer/variables.tf": [
+      {
+        "hash": "s_5510c38959eb1c::t_a0cea15afd7712",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              84
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a2fec0ca5cd2bedabbb1a2d",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  84
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "classic-load-balance/modules/load_balancer/versions.tf": [
+      {
+        "hash": "s_5510c38959eb1c::t_a0cea15afd7712",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              8
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a2fec0ca5cd2bedabbb1a2d",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  8
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "classic-load-balance/modules/network/main.tf": [
+      {
+        "hash": "s_5510c38959eb1c::t_a0cea15afd7712",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              83
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a2fec0ca5cd2bedabbb1a2d",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  83
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "classic-load-balance/modules/network/outputs.tf": [
+      {
+        "hash": "s_5510c38959eb1c::t_a0cea15afd7712",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              24
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a2fec0ca5cd2bedabbb1a2d",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  24
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "classic-load-balance/modules/network/variables.tf": [
+      {
+        "hash": "s_5510c38959eb1c::t_a0cea15afd7712",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              43
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a2fec0ca5cd2bedabbb1a2d",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  43
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "classic-load-balance/modules/network/versions.tf": [
+      {
+        "hash": "s_5510c38959eb1c::t_a0cea15afd7712",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              8
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a2fec0ca5cd2bedabbb1a2d",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  8
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "classic-load-balance/modules/storage/main.tf": [
+      {
+        "hash": "s_5510c38959eb1c::t_a0cea15afd7712",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              16
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a2fec0ca5cd2bedabbb1a2d",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  16
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "classic-load-balance/modules/storage/outputs.tf": [
+      {
+        "hash": "s_5510c38959eb1c::t_a0cea15afd7712",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              19
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a2fec0ca5cd2bedabbb1a2d",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  19
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "classic-load-balance/modules/storage/variables.tf": [
+      {
+        "hash": "s_5510c38959eb1c::t_a0cea15afd7712",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              24
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a2fec0ca5cd2bedabbb1a2d",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  24
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "classic-load-balance/modules/storage/versions.tf": [
+      {
+        "hash": "s_5510c38959eb1c::t_a0cea15afd7712",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              8
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a2fec0ca5cd2bedabbb1a2d",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  8
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "classic-load-balance/outputs.tf": [
+      {
+        "hash": "s_5510c38959eb1c::t_a0cea15afd7712",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              64
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a2fec0ca5cd2bedabbb1a2d",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  64
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "classic-load-balance/providers.tf": [
+      {
+        "hash": "s_5510c38959eb1c::t_a0cea15afd7712",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              5
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a2fec0ca5cd2bedabbb1a2d",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  5
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "classic-load-balance/terraform.tfvars": [
+      {
+        "hash": "s_5510c38959eb1c::t_a0cea15afd7712",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              3
+            ]
+          },
+          {
+            "Range": [
+              5,
+              11
+            ]
+          },
+          {
+            "Range": [
+              13,
+              60
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a2fec0ca5cd2bedabbb1a2d",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  3
+                ]
+              },
+              {
+                "Range": [
+                  5,
+                  11
+                ]
+              },
+              {
+                "Range": [
+                  13,
+                  60
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "classic-load-balance/variables.tf": [
+      {
+        "hash": "s_5510c38959eb1c::t_a0cea15afd7712",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              220
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a2fec0ca5cd2bedabbb1a2d",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  220
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "classic-load-balance/versions.tf": [
+      {
+        "hash": "s_5510c38959eb1c::t_a0cea15afd7712",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              9
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a2fec0ca5cd2bedabbb1a2d",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  9
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "remote_transcripts": {
+    "s_5510c38959eb1c": {
+      "tool": "trae",
+      "conversation_id": "6a1fcadf8e54f7cb088264bb",
+      "session_id": "6a1fcadf8e54f7cb088264bb",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    },
+    "s_5510c38959eb1c::t_a0cea15afd7712": {
+      "tool": "trae",
+      "conversation_id": "6a1fcadf8e54f7cb088264bb",
+      "session_id": "6a1fcadf8e54f7cb088264bb",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    }
+  }
+}
