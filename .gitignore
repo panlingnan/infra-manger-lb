@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Terraform
+**/.terraform/
+**/.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+*.tfplan
+tfplan
+crash.log
+crash.*.log
+
+# Sensitive
+*.pem
+*.key
+.env
+*.tfvars.local
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# 内部 PDF（含客户信息，不入仓）
+*.pdf
