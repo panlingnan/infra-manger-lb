@@ -1,7 +1,7 @@
 ###############################
 # 环境与全局
 ###############################
-region       = "cn-beijing"
+region       = "cn-guilin-boe"
 project_name = "default"
 name_prefix  = "tf-clb"
 
@@ -9,7 +9,7 @@ name_prefix  = "tf-clb"
 # 网络
 ###############################
 vpc_cidr           = "10.1.0.0/16"
-availability_zones = ["cn-beijing-a", "cn-beijing-b"]
+availability_zones = ["cn-guilin-boe-a", "cn-guilin-boe-b"]
 subnet_cidrs       = ["10.1.2.0/24", "10.1.3.0/24"]
 
 ###############################
