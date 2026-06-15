@@ -4,7 +4,7 @@
 variable "region" {
   type        = string
   description = "火山引擎部署区域"
-  default     = "cn-beijing"
+  default     = "cn-guilin-boe"
 }
 
 variable "project_name" {
