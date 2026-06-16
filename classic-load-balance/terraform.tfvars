@@ -9,7 +9,7 @@ name_prefix  = "tf-clb"
 # 网络
 ###############################
 vpc_cidr           = "10.1.0.0/16"
-availability_zones = ["cn-guilin-boe-a", "cn-guilin-boe-b"]
+availability_zones = ["cn-guilin-c", "cn-guilin-local-e"]
 subnet_cidrs       = ["10.1.2.0/24", "10.1.3.0/24"]
 
 ###############################

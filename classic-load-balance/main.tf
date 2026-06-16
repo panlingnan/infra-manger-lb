@@ -5,6 +5,22 @@
 # - 数据层：RDS MySQL 主备 + TOS 对象存储
 ###############################################################################
 
+# 前置校验：availability_zones 必须以 region 为前缀，避免 InvalidZoneId.NotFound
+check "region_zone_match" {
+  assert {
+    condition     = alltrue([for z in var.availability_zones : startswith(z, var.region)])
+    error_message = "availability_zones 中的可用区必须以 region (${var.region}) 为前缀，例如 ${var.region}-a。当前值: ${join(",", var.availability_zones)}"
+  }
+}
+
+# 前置校验：subnet_cidrs 与 availability_zones 长度必须一致
+check "subnet_zone_alignment" {
+  assert {
+    condition     = length(var.subnet_cidrs) == length(var.availability_zones)
+    error_message = "subnet_cidrs (${length(var.subnet_cidrs)}) 与 availability_zones (${length(var.availability_zones)}) 数量不一致"
+  }
+}
+
 module "network" {
   source = "./modules/network"
 

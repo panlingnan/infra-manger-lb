@@ -40,8 +40,8 @@ variable "vpc_cidr" {
 
 variable "availability_zones" {
   type        = list(string)
-  description = "可用区列表，建议至少两个以实现跨 AZ 高可用"
-  default     = ["cn-beijing-a", "cn-beijing-b"]
+  description = "可用区列表，建议至少两个以实现跨 AZ 高可用。"
+  default     = ["cn-guilin-c", "cn-guilin-local-e"]
 }
 
 variable "subnet_cidrs" {
@@ -62,12 +62,13 @@ variable "enable_compute" {
 variable "image_id" {
   type        = string
   description = "ECS 实例使用的镜像 ID（如 image-xxx）。volcenginecc Provider 暂不提供镜像数据源，请通过控制台或 API 查询后填入"
+  default     = "image-yzjxq7zrrh8lovxdg9dp"
 }
 
 variable "instance_type" {
   type        = string
   description = "ECS 实例规格"
-  default     = "ecs.g3i.large"
+  default     = "ecs.g4i.large"
 }
 
 variable "system_volume_type" {
@@ -86,7 +87,7 @@ variable "ecs_password" {
   type        = string
   description = "ECS 登录密码，建议通过环境变量 TF_VAR_ecs_password 注入"
   sensitive   = true
-  default     = ""
+  default     = "Aasdsd!1234dsad@D"
 }
 
 variable "web_instance_count" {
@@ -183,7 +184,7 @@ variable "rds_super_account_password" {
   type        = string
   description = "RDS 高权限账号密码，建议通过环境变量 TF_VAR_rds_super_account_password 注入"
   sensitive   = true
-  default     = ""
+  default     = "Aasdsd!1234dsad@D"
 }
 
 variable "rds_database_name" {
@@ -210,7 +211,7 @@ variable "enable_tos" {
 variable "tos_bucket_name" {
   type        = string
   description = "TOS 桶名（全局唯一），不填则自动生成"
-  default     = ""
+  default     = "tf-tos-bucket"
 }
 
 variable "tos_enable_version_status" {
