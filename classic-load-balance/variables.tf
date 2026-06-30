@@ -4,7 +4,7 @@
 variable "region" {
   type        = string
   description = "火山引擎部署区域"
-  default     = "cn-guilin-boe"
+  default     = "cn-beijing"
 }
 
 variable "project_name" {
@@ -41,7 +41,7 @@ variable "vpc_cidr" {
 variable "availability_zones" {
   type        = list(string)
   description = "可用区列表，建议至少两个以实现跨 AZ 高可用。"
-  default     = ["cn-guilin-c", "cn-guilin-local-e"]
+  default     = ["cn-beijing-a", "cn-beijing-b"]
 }
 
 variable "subnet_cidrs" {
@@ -62,13 +62,13 @@ variable "enable_compute" {
 variable "image_id" {
   type        = string
   description = "ECS 实例使用的镜像 ID（如 image-xxx）。volcenginecc Provider 暂不提供镜像数据源，请通过控制台或 API 查询后填入"
-  default     = "image-yzjxq7zrrh8lovxdg9dp"
+  default     = "image-yzzk80a8ygjuthozua1j"
 }
 
 variable "instance_type" {
   type        = string
   description = "ECS 实例规格"
-  default     = "ecs.g4i.large"
+  default     = "ecs.r4i.large"
 }
 
 variable "system_volume_type" {
