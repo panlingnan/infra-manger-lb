@@ -1,0 +1,20 @@
+classic-load-balance/terraform.tfvars
+  h_8f8ed475454a1f 4,12
+classic-load-balance/providers.tf
+  h_8f8ed475454a1f 4
+classic-load-balance/variables.tf
+  h_8f8ed475454a1f 7,44,65,71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "254bc2bdefd44f29e7e5ee59d576560d8b5186b5",
+  "prompts": {},
+  "humans": {
+    "h_8f8ed475454a1f": {
+      "author": "panlingnan <panlingnan@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
